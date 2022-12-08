@@ -1,4 +1,4 @@
-#### Hi there! I'm Goran, a Senior DevOps Engineer with extensive experience in the Blockchain and AI.
+#### Hi there! I'm Goran, a DevOps Engineer with extensive experience in the Blockchain and AI.
 
 # Experience
 
