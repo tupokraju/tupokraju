@@ -1,5 +1,5 @@
 #### Hi there! I'm Goran, a DevOps Engineer with extensive experience in the Blockchain and Artificial Intelligence.
-
+ 
 # Experience 
 
 ∙ Extensive experience with Blockchain technology, including development and deployment of smart contracts on various platforms such as Ethereum and Hyperledger Fabric.
