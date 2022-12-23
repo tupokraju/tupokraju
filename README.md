@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me:
 
-### I am a full stack developer from Serbia 🇷🇸
+### I am a full stack developer.
 
 ###### • Skilled full stack developer with a focus on building decentralized applications (dApps), protocols, and decentralized autonomous organizations (DAOs).
 
